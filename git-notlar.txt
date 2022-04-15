@@ -1,0 +1,3 @@
+# Ortam notları
+
+Kullanılan uygulama: Android Studio Bumblebee (2021.1.1)
