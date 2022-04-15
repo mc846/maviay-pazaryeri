@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/activity_butun_urunler.xml" value="0.1" />
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/activity_secilen_urunler.xml" value="0.18545454143492654" />
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/activity_urun.xml" value="0.1" />
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/activity_user.xml" value="0.15670289855072464" />
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/urun.xml" value="0.13072916666666667" />
+        <entry key="..\:/Android/Android_Studio_Projects/ImeceYatrmYonetim/app/src/main/res/layout/urun_liste.xml" value="0.17119565217391305" />
+        <entry key="..\:/Android/Android_Studio_Projects/mavi_ay_pazaryeri/app/src/main/res/layout/activity_butun_urunler.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/Android_Studio_Projects/mavi_ay_pazaryeri/app/src/main/res/layout/activity_urun.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/Android_Studio_Projects/mavi_ay_pazaryeri/app/src/main/res/layout/activity_user.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/Android_Studio_Projects/maviay_pazaryeri/app/src/main/res/layout/urun.xml" value="0.33" />
+        <entry key="..\:/Android/Android_Studio_Projects/maviay_pazaryeri/app/src/main/res/layout/urun_liste.xml" value="0.5" />
+        <entry key="..\:/Android/Android_Studio_Projects/maviay_pazaryeri/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.295" />
+        <entry key="..\:/Android/Android_Studio_Projects/maviay_pazaryeri/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.295" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

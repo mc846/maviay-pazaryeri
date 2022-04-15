@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mavi Ay Pazaryeri</string>
+    <string name="girisYap">GİRİŞ YAP</string>
+    <string name="telefonNumarasi">Telefon Numarası</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="kullaniciAdiVarsayilan">kminchelle</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifreVarsayilan">0lelplR</string>
+    <string name="sifremiUnuttum">Şifremi Unuttum</string>
+    <string name="sifreyiGonder">ŞİFREYİ GÖNDER</string>
+    <string name="yadaGiris">Ya da Giriş Yap</string>
+    <string name="kullaniciSayfasi">KULLANICI SAYFASI</string>
+    <string name="ePosta">E-Posta</string>
+    <string name="adiSoyadi">Adı Soyadı</string>
+    <string name="butunUrunler">BÜTÜN ÜRÜNLER</string>
+    <string name="secilenUrunler">SEÇİLEN ÜRÜNLER</string>
+    <string name="aranacakUrun">Aranacak Ürün</string>
+    <string name="sayfadaUrun">Sayfada Gösterilecek Ürün Adedi</string>
+    <string name="listele">Listele</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="en_az">Low</string>
+</resources>
